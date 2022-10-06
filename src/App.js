@@ -1,7 +1,6 @@
 import './App.css';
 import React from 'react';
 import 'bootstrap/dist/js/bootstrap.js';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 const audio = document.getElementById('beep');
